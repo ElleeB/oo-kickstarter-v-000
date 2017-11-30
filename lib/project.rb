@@ -6,3 +6,5 @@ def Project
     @name = name
     @backers = []
   end
+
+end
